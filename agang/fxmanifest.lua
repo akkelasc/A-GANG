@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'a-scripts'
-description 'Gang Management'
+description 'JENGISCRIPTI BY AKKE DC kkona_akke'
 version '1.0.0'
 
 client_scripts {
